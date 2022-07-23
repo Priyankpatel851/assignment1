@@ -1,1 +1,3 @@
 this is master braach file
+this ius private brach file
+>>>>>>> private
